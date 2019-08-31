@@ -1,6 +1,6 @@
 # ► What is this ?
 
-this is a rpchat for fivem
+This is a rpchat for fivem
 
 # ► esx_rpchatV5
 
