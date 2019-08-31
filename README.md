@@ -2,7 +2,7 @@
 
 this is a rpchat for fivem
 
-#Requirements :
+# ► Requirements :
 
 esx_identity
 
@@ -10,22 +10,22 @@ esx_identity
 
 rp_chatV5 This script is a chat to releases esx_rpchat   Thanks  to https://github.com/ESX-Org/esx_rpchat
 
-# ►►Download & Installation ◄◄
+# ►► Download & Installation ◄◄
 
 ## ► Using Git
 
 cd resources
 git clone https://github.com/Elbarjo/esx_rpchatV5
 
-## Manually
+## ► Manually
 
 Download from this.
 
-►Add this to your ```server.cfg:```
+Add this to your ```server.cfg:```
 
 ```start esx_rpchatV5```
 
-# Youtube video :copyright:
+# ► Youtube video :copyright:
 
 https://youtu.be/jWOmrBkoLNQ
 
