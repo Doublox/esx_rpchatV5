@@ -29,3 +29,5 @@ Add this to your ```server.cfg:```
 Thanks to my friend @djelectro95 (https://github.com/djelectro95) to help me for the admin text ^^
 
 Send by @Doublox
+
+Besoin de support ? Discord : Doublox#9803
